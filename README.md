@@ -17,7 +17,7 @@
 
 ## 4. 파일 설명
 
-- **Baseline(ExtraTrees).ipynb**: ExtraTreesClassifier를 사용한 간단한 베이스라인 모델, 기본적인 pre-processing 및 feature importance 포함
-- **Ensemble(xgb+lgbm+catboost)\_Best.ipynb**: **메인 모델**, Multiple Imputation과 Feature Engineering 및 XGBoost, LightGBM, CatBoost를 ensemble한 모델
-- **Ensemble(xgb+lgbm+catboost+tabnet).ipynb**: 기본 ensemble 모델에 TabNet을 추가하여 성능 확인
-- **Ensemble(xgb+lgbm+catboost+tabpfn).ipynb**: 기본 ensemble 모델에 TabPFN을 추가하여 성능 확인
+- `Baseline(ExtraTrees).ipynb`: ExtraTreesClassifier를 사용한 간단한 베이스라인 모델, 기본적인 pre-processing 및 feature importance 포함
+- `Ensemble(xgb+lgbm+catboost)\_Best.ipynb`: **메인 모델**, Multiple Imputation과 Feature Engineering 및 XGBoost, LightGBM, CatBoost를 ensemble한 모델
+- `Ensemble(xgb+lgbm+catboost+tabnet).ipynb`: 기본 ensemble 모델에 TabNet을 추가하여 성능 확인
+- `Ensemble(xgb+lgbm+catboost+tabpfn).ipynb`: 기본 ensemble 모델에 TabPFN을 추가하여 성능 확인
